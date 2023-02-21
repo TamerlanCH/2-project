@@ -3,7 +3,6 @@
     padding: 0;
     margin: 0 auto;
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     flex-direction: row;
     list-style: none;
